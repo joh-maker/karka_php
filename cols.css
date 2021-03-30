@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.reset-padding{
+    padding:0px !important;
+    
+}
+.reset-margin{
+    margin:0px !important;
+}
+.head{
+    background-color: red;
+}
+
+@media screen and (min-width:560px){
+    .reset-padding{
+        margin-bottom: 10px;;
+    }
+
+}

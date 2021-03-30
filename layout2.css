@@ -1,0 +1,20 @@
+.dot{
+    background-color: #e5e5e5;
+}
+.john{
+    margin-left:300px;
+}
+.claw{
+    font-size: 90px;
+}
+.size{
+    font-size: 35px;
+}
+.jump{
+    background-color: #e5e5e5;
+}
+@media screen and (min-width:560px){
+    .carry{
+        margin-bottom: 20px;
+    }
+}
